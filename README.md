@@ -20,7 +20,7 @@ WARNING: Use --illegal-access=warn to enable warnings of further illegal reflect
 WARNING: All illegal access operations will be denied in a future release
 ```
 
-## failing call
+## call causing warnings
 
 ```java
 com.itextpdf.text.FontFactory.registerDirectories();
